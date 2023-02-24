@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductsPaginationSortingApplication {
+public class Day6PaginationSortingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductsPaginationSortingApplication.class, args);
+		SpringApplication.run(Day6PaginationSortingApplication.class, args);
 	}
 
 }

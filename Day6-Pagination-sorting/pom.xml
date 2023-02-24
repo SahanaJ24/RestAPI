@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>Products-Pagination-sorting</artifactId>
+	<artifactId>Day6-Pagination-sorting</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Products-Pagination-sorting</name>
+	<name>Day6-Pagination-sorting</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
